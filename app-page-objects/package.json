@@ -1,0 +1,17 @@
+{
+  "name": "@demo-application/app-page-objects",
+  "version": "0.0.0-placeholder",
+  "type": "module",
+  "peerDependencies": {
+    "@angular/common": "0.0.0-placeholder",
+    "@angular/core": "0.0.0-placeholder"
+  },
+  "ng-update": {
+    "packageGroup": [
+      "@demo-application/app-page-objects"
+    ]
+  },
+  "dependencies": {
+    "tslib": "0.0.0-placeholder"
+  }
+}
